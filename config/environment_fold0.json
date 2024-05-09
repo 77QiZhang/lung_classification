@@ -1,0 +1,10 @@
+{
+    "model_path": "/homes/qzhang/Code/ConvNeXt/trained_models/model_LanWei_fold0.pt",
+    "train_json_path": "/homes/qzhang/Data/LanWei/box/train_1234.json",
+    "val_json_path": "/homes/qzhang/Data/LanWei/box/all_fold5_NoAug.json",
+    "test_json_path": "/homes/qzhang/Data/LanWei/box/all_foldtest.json",
+    "tfevent_path": "/homes/qzhang/Code/ConvNeXt/tensorboard/resize",
+    "roc_path": "roc/roc_curve_fold0.png",
+    "test_roc_path": "roc/roc_curve_fold0_test.png"
+
+}

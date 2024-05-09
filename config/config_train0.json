@@ -1,0 +1,10 @@
+{
+    "modellr": 1e-3,
+    "val_interval": 1,
+    "batch_size": 10,
+    "EPOCHS": 45,
+    "num_classes": 2,
+    "spatial_size": [48,48,8],
+    "eta_min": 1e-6,
+    "model": "trilinear"
+}

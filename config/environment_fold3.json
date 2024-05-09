@@ -1,0 +1,9 @@
+{
+    "model_path": "trained_models/model_LanWei_fold3_desnet.pt",
+    "train_json_path": "/homes/qzhang/Data/LanWei/box/train_4512.json",
+    "val_json_path": "/homes/qzhang/Data/LanWei/box/all_fold3_NoAug.json",
+    "test_json_path": "/homes/qzhang/Data/LanWei/box/all_foldtest.json",
+    "tfevent_path": "/homes/qzhang/Code/ConvNeXt/tensorboard/resize",
+    "roc_path": "roc/roc_curve_fold3_desnet.png",
+    "test_roc_path": "roc/roc_curve_fold3_test_desnet.png"
+}

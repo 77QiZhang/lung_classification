@@ -1,0 +1,7 @@
+{
+    "model_path": "trained_models/model_LanWei_all.pt",
+    "train_json_path": "/homes/qzhang/Data/LanWei/box/train_pred_all.json",
+    "val_json_path": "/homes/qzhang/Data/LanWei/box/val_pred_all.json",
+    "tfevent_path": "/homes/qzhang/Code/ConvNeXt/tensorboard/resize",
+    "roc_path": "roc/roc_curve_all.png"
+}

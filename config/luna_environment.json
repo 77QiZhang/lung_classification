@@ -1,0 +1,7 @@
+{
+    "model_path": "/homes/qzhang/Data/lungwcl/trained_models/3DVGG11_lung.pt",
+    "tfevent_path": "/homes/qzhang/Data/lungwcl/tensorboard/3DVGG11_lung",
+    "roc_path": "/homes/qzhang/Data/lungwcl/roc/3DVGG11_lung_roc_curve_fold0.png",
+    "test_roc_path": "/homes/qzhang/Data/lungwcl/roc/3DVGG11_lung_roc_curve_fold0_test.png"
+
+}

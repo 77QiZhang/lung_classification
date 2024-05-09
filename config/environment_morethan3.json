@@ -1,0 +1,8 @@
+{
+    "model_path": "trained_models/model_LanWei_morethan3.pt",
+    "train_json_path": "/homes/qzhang/Data/LanWei/box/train.json",
+    "val_json_path": "/homes/qzhang/Data/LanWei/box/val.json",
+    "test_json_path": "/homes/qzhang/Data/LanWei/box/val.json",
+    "tfevent_path": "/homes/qzhang/Code/ConvNeXt/tensorboard/resize",
+    "roc_path": "roc/roc_curve_morethan3.png"
+}

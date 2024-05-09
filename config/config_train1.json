@@ -1,0 +1,11 @@
+{
+    "modellr": 1e-3,
+    "val_interval": 5,
+    "BATCH_SIZE": 10,
+    "EPOCHS": 300,
+    "num_classes": 2,
+    "spatial_size": [64,64,32],
+    "spatial_size_large": [96,96,32],
+    "eta_min": 1e-6,
+    "fangfa":"gudingdaxiao"
+}
